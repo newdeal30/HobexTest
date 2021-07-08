@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobexTest.Android", "HobexTest\HobexTest.Android\HobexTest.Android.csproj", "{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobexTest", "HobexTest\HobexTest\HobexTest.csproj", "{F720B767-48CA-4070-B056-03F2FA0BD752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BDA77F-F941-4F2E-98DB-AF4C5F1AB27D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F720B767-48CA-4070-B056-03F2FA0BD752}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCA0CBF-974D-4F9C-9FEA-BBE9FE2E4EA4}
+	EndGlobalSection
+EndGlobal
